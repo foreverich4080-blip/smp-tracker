@@ -11,5 +11,6 @@ A daily performance tracker built with Python that records performance data, ana
 - Generates weekly performance reports
 
 ## Why It Exists
-
-SMP Tracker was built to turn daily performance data into useful feedback that can be reviewed over time.
+run the tracker with:
+```bash
+python tracker .py
